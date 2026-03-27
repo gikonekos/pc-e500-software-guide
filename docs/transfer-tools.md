@@ -24,8 +24,7 @@ For simple serial communication and text transfer, one practical PC-side tool is
 For binary-oriented workflows and more convenient file transfer, PLINK is one of
 the most important tools in the PC-E500 ecosystem.
 
-A commonly referenced Windows-side server for Pocket Link System is
-APLINKS for Win32.
+For Windows-based use, please also see the dedicated [PLINK](../tools/plink/README.md) page.
 
 In other words:
 
@@ -81,5 +80,7 @@ Depending on the software and workflow, you may also need:
 
 ## Related pages
 
+- [Getting Started](getting-started.md)
 - [PLINK](../tools/plink/README.md)
+- [LZH Archives](lzh.md)
 - [Redistribution Policy](redistribution-policy.md)
