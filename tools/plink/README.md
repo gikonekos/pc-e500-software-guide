@@ -48,9 +48,6 @@ Please check the original pages for details, compatibility, and usage notes.
 
 This repository does **not** redistribute these original packages.
 
-Please check the original pages for details, compatibility, and usage notes.
-
-This repository does **not** redistribute these original packages.
 
 ## Related pages
 
