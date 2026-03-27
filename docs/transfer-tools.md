@@ -13,8 +13,24 @@ You also need a workable transfer path from a modern PC to the pocket computer.
 For this repository, the most important combination is:
 
 - PLINK on the pocket computer side
-- a PC-side server tool on the computer side
+- a PC-side communication or server tool
 - suitable serial connection hardware
+
+## PC-side software
+
+For simple serial communication and text transfer, one practical PC-side tool is
+[Tera Term](https://teratermproject.github.io/index-en.html).
+
+For binary-oriented workflows and more convenient file transfer, PLINK is one of
+the most important tools in the PC-E500 ecosystem.
+
+A commonly referenced Windows-side server for Pocket Link System is
+APLINKS for Win32.
+
+In other words:
+
+- Tera Term is useful for basic serial communication and text transfer
+- PLINK is especially important for binary file transfer and practical software use
 
 ## Why this matters
 
