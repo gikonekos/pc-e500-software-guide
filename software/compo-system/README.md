@@ -33,8 +33,14 @@ This software is especially relevant for users interested in:
 
 Please obtain the original archive from the original distribution source.
 
+Reference page:
+
+- [TORO's Software Library (PC-E500)](https://toroidj.github.io/sle500.html)
+
 This repository does **not** currently redistribute the original archive.
 
+Please also note that this repository provides an English introduction and guidance only.
+It does not claim redistribution rights for the original archive or bundled translated packages.
 ## About this page
 
 At present, this repository provides:
