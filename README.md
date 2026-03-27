@@ -46,15 +46,15 @@ If you are new to the PC-E500 ecosystem, start here:
 
 ---
 
-## Planned Pages
+### Pages
 
 - Getting Started
 - Transfer Tools
-- PLINK
+- [PLINK](tools/plink/README.md)
 - LZH Archives
 - Original Distribution Links
-- COMPO-System
-- Redistribution Policy
+- [COMPO-System](software/compo-system/README.md)
+- [Redistribution Policy](docs/redistribution-policy.md)
 
 ---
 
