@@ -43,7 +43,7 @@ For Windows-based use, the most important original components are:
 
 - [APLINKS for Win32](https://yuuichiakagawa.github.io/pocketcom/plink/)
 - [PLINK / Pocket Link System overview](https://yuuichiakagawa.github.io/pocketcom/plink/)
-- [PLINKC reference and setup notes](https://ht-deko.com/pce500/)
+- [PLINKC reference and setup notes](https://ht-deko.com/pce500/#04_01)
 
 Please check the original pages for details, compatibility, and usage notes.
 
