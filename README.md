@@ -70,6 +70,10 @@ Until then, this repository provides:
 - software introductions
 - links to original sources
 
+See also:
+
+- [Redistribution Policy](docs/redistribution-policy.md)
+
 ---
 
 ## Notes
