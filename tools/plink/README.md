@@ -1,7 +1,7 @@
 # PLINK
 
-PLINK is one of the most important tools for getting started with software on the
-SHARP PC-E500 series.
+**PLINK** is one of the **most important tools** for getting started with software on the
+**SHARP PC-E500 series**.
 
 In practical terms, it provides a way to connect a PC and a pocket computer over
 a serial link and use a virtual drive from the pocket computer side.
@@ -28,9 +28,15 @@ Typical requirements include:
 - a compatible PLINK driver on the pocket computer
 - a PC-side server tool
 
-## Windows-side server
+## Windows-side use
 
-A commonly referenced Windows-side server is **APLINKS for Win32**.
+For Windows-based use, a practical setup often includes:
+
+- PLINK or PLINKC on the pocket computer side
+- APLINKS for Win32 on the PC side
+
+For simple serial communication and text transfer, Tera Term can also be useful,
+but PLINK is especially important for binary file transfer and practical software use.
 
 ## Important note
 
@@ -47,7 +53,6 @@ For Windows-based use, the most important original components are:
 Please check the original pages for details, compatibility, and usage notes.
 
 This repository does **not** redistribute these original packages.
-
 
 ## Related pages
 
