@@ -51,7 +51,7 @@ If you are new to the PC-E500 ecosystem, start here:
 - Getting Started
 - [Transfer Tools](docs/transfer-tools.md)
 - [PLINK](tools/plink/README.md)
-- LZH Archives
+- [LZH Archives](docs/lzh.md)
 - Original Distribution Links
 - [COMPO-System](software/compo-system/README.md)
 - [Redistribution Policy](docs/redistribution-policy.md)
