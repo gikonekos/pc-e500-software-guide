@@ -51,6 +51,26 @@ Please check compatibility, connector type, and current availability before purc
 
 In Japan, related items may also sometimes appear through secondary markets.
 
+## Text encoding
+
+In practical transfer workflows, text encoding can become a real problem even when
+the file transfer itself appears to succeed.
+
+For many older Japanese PC-E500 files, CP932-compatible handling is often safer
+than UTF-8.
+
+This is especially important when:
+
+- older Japanese text files are involved
+- half-width kana are used
+- text looks correct on one side but becomes garbled after transfer
+
+In practice:
+
+- successful transfer does not always mean correct text display
+- UTF-8 may cause garbled text in older Japanese workflows
+- CP932-compatible handling is often the safer choice
+
 ## Also remember
 
 Depending on the software and workflow, you may also need:
