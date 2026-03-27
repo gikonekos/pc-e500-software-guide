@@ -49,7 +49,7 @@ If you are new to the PC-E500 ecosystem, start here:
 ### Pages
 
 - Getting Started
-- Transfer Tools
+- [Transfer Tools](docs/transfer-tools.md)
 - [PLINK](tools/plink/README.md)
 - LZH Archives
 - Original Distribution Links
