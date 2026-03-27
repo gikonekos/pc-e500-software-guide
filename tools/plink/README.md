@@ -37,6 +37,21 @@ A commonly referenced Windows-side server is **APLINKS for Win32**.
 Before disconnecting, always make sure the virtual drive contents are properly handled
 according to the tool’s procedure.
 
+## Original distribution
+
+For Windows-based use, the most important original components are:
+
+- [APLINKS for Win32](https://yuuichiakagawa.github.io/pocketcom/plink/)
+- [PLINK / Pocket Link System overview](https://yuuichiakagawa.github.io/pocketcom/plink/)
+- [PLINKC reference and setup notes](https://ht-deko.com/pce500/)
+
+Please check the original pages for details, compatibility, and usage notes.
+
+This repository does **not** redistribute these original packages.
+
 ## Related pages
 
+- [Getting Started](../../docs/getting-started.md)
+- [Transfer Tools](../../docs/transfer-tools.md)
+- [LZH Archives](../../docs/lzh.md)
 - [Redistribution Policy](../../docs/redistribution-policy.md)
