@@ -35,14 +35,13 @@ This repository does **not** aim to replace original archive sites or original a
 
 ## First Steps
 
-If you are new to the PC-E500 ecosystem, start here:
+If you are new to the **PC-E500** ecosystem, start here:
 
-1. Read the introduction to the transfer environment
-2. Learn what PLINK is and why it matters
-3. Prepare a Windows-side transfer tool
-4. Learn how to handle LZH archives
-5. Follow the getting-started guide
-6. Explore individual software pages
+1. Read [Transfer Tools](docs/transfer-tools.md)
+2. Learn what [PLINK](tools/plink/README.md) is and why it matters
+3. Read [LZH Archives](docs/lzh.md)
+4. Read [Getting Started](docs/getting-started.md)
+5. Explore individual software pages such as [COMPO-System](software/compo-system/README.md)
 
 ---
 
