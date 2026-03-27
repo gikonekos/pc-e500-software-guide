@@ -48,7 +48,7 @@ If you are new to the PC-E500 ecosystem, start here:
 
 ### Pages
 
-- Getting Started
+- [Getting Started](docs/getting-started.md)
 - [Transfer Tools](docs/transfer-tools.md)
 - [PLINK](tools/plink/README.md)
 - [LZH Archives](docs/lzh.md)
