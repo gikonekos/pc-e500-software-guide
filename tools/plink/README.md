@@ -54,6 +54,12 @@ Please check the original pages for details, compatibility, and usage notes.
 
 This repository does **not** redistribute these original packages.
 
+## Documentation
+
+English translation of the bundled documentation:
+
+- [PLINK.SYS Ver. 1.04 documentation (English translation)](doc/plink104-doc-en.md)
+
 ## Related pages
 
 - [Getting Started](../../docs/getting-started.md)
