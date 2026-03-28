@@ -28,6 +28,33 @@ Typical requirements include:
 - a compatible PLINK driver on the pocket computer
 - a PC-side server tool
 
+## Component overview
+
+The PLINK environment consists of several related components.
+
+- **PLINK.SYS**  
+  The main pocket-computer-side device driver. It provides the virtual drive
+  environment used by the Pocket Link System.
+
+- **APLINKS for Win32**  
+  A practical Windows-side server for using the Pocket Link System.
+
+- **PLINKC**  
+  A related pocket-computer-side variant used in some practical setups,
+  especially where compatibility or speed considerations differ.
+
+- **Tera Term**  
+  A useful PC-side communication tool for simple serial communication and text
+  transfer, but not a replacement for the PLINK virtual-drive workflow.
+
+## Practical note
+
+For binary-oriented workflows and convenient file transfer, the core setup is
+typically:
+
+- PLINK.SYS or PLINKC on the pocket computer side
+- APLINKS for Win32 on the PC side
+
 ## Windows-side use
 
 For Windows-based use, a practical setup often includes:
