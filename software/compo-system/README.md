@@ -13,6 +13,28 @@ PC-E500 series.
 It is aimed at users who are interested in machine-language development,
 low-level software work, and real-hardware experimentation.
 
+## Component overview
+
+The COMPO-System environment consists of several related components.
+
+- **COMPO-System**  
+  The main debugger itself. It provides tracing, disassembly, editing,
+  breakpoints, file operations, and other low-level development functions.
+
+- **History**  
+  A command-line history and extended-key tool used together with COMPO-System
+  in the standard E500-series workflow.
+
+- **CC**  
+  A support program for using COMPO-System on **E650 / U6000** without relying
+  on History.
+
+## Important compatibility note
+
+**History Version 1.11 does not support E650 / U6000.**
+
+For those models, the bundled **CC** program is the relevant companion tool.
+
 ## Why it matters
 
 COMPO-System is one of the notable utility tools in the PC-E500 ecosystem.
