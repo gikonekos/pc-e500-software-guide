@@ -53,10 +53,14 @@ It does not claim redistribution rights for the original archive.
 
 ## Documentation
 
-English translation of the bundled documentation:
+English translations of bundled documentation:
 
-- [COMPO-System documentation (English translation)](doc/compo-doc-en.md)
+- [COMPO-System documentation (English translation)](doc/compo-doc-en.md)  
+  Main manual for COMPO-System Version 2.13, including installation, commands,
+  tracing, disassembly, editing, breakpoints, and file operations.
 
+- [CC documentation (English translation)](doc/cc-doc.md)  
+  Notes for using COMPO-System on E650 / U6000 without relying on History.
 
 ## Related pages
 
