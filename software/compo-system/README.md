@@ -51,6 +51,13 @@ At present, this repository provides:
 
 It does not claim redistribution rights for the original archive.
 
+## Documentation
+
+English translation of the bundled documentation:
+
+- [COMPO-System documentation (English translation)](doc/compo-doc-en.md)
+
+
 ## Related pages
 
 - [Redistribution Policy](../../docs/redistribution-policy.md)
