@@ -57,11 +57,17 @@ English translations of bundled documentation:
 
 - [COMPO-System documentation (English translation)](doc/compo-doc-en.md)  
   Main manual for COMPO-System Version 2.13, including installation, commands,
-  tracing, disassembly, editing, breakpoints, and file operations.
+  tracing, disassembly, editing, breakpoints, file operations, and general
+  debugger usage on the PC-E500 series.
 
 - [CC documentation (English translation)](doc/cc-doc.md)  
-  Notes for using COMPO-System on E650 / U6000 without relying on History.
+  Supplement for using COMPO-System on E650 / U6000 without relying on History.
 
+- [History documentation (English translation)](doc/history-doc-en.md)  
+  Main manual for History Version 1.11, covering command-line history,
+  extended keys, installation, and source-level extension notes.  
+  **Important:** History Version 1.11 does **not** support E650 / U6000.
+  
 ## Related pages
 
 - [Redistribution Policy](../../docs/redistribution-policy.md)
