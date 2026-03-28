@@ -37,16 +37,18 @@ This repository does **not** aim to replace original archive sites or original a
 
 If you are new to the **PC-E500** ecosystem, start here:
 
-1. Read [Transfer Tools](docs/transfer-tools.md)
-2. Learn what [PLINK](tools/plink/README.md) is and why it matters
-3. Read [LZH Archives](docs/lzh.md)
-4. Read [Getting Started](docs/getting-started.md)
-5. Explore individual software pages such as [COMPO-System](software/compo-system/README.md)
+1. Watch the [Software Transfer Guide](docs/transfer-guide.md)
+2. Read [Transfer Tools](docs/transfer-tools.md)
+3. Learn what [PLINK](tools/plink/README.md) is and why it matters
+4. Read [LZH Archives](docs/lzh.md)
+5. Read [Getting Started](docs/getting-started.md)
+6. Explore individual software pages such as [COMPO-System](software/compo-system/README.md)
 
 ---
 
-### Pages
+## Pages
 
+- [Software Transfer Guide](docs/transfer-guide.md)
 - [Getting Started](docs/getting-started.md)
 - [Transfer Tools](docs/transfer-tools.md)
 - [PLINK](tools/plink/README.md)
@@ -82,6 +84,10 @@ Some tools may require serial connection hardware, transfer software,
 or machine-specific setup.
 
 This repository tries to make those steps easier for new users.
+
+For a practical step-by-step video overview, see:
+
+- [Software Transfer Guide](docs/transfer-guide.md)
 
 ---
 
