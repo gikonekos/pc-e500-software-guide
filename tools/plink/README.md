@@ -56,9 +56,12 @@ This repository does **not** redistribute these original packages.
 
 ## Documentation
 
-English translation of the bundled documentation:
+English translations of bundled documentation:
 
-- [PLINK.SYS Ver. 1.04 documentation (English translation)](doc/plink104-doc-en.md)
+- [PLINK.SYS Ver. 1.04 documentation (English translation)](doc/plink104-doc-en.md)  
+  Main documentation for the PLINK.SYS device driver, including installation,
+  communication requirements, virtual drive usage, abnormal-condition handling,
+  and technical notes about the block-device implementation.
 
 ## Related pages
 
