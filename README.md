@@ -35,14 +35,17 @@ This repository does **not** aim to replace original archive sites or original a
 
 ## First Steps
 
-If you are new to the **PC-E500** ecosystem, start here:
+If you are new to the PC-E500 ecosystem, start here:
 
-1. Watch the [Software Transfer Guide](docs/transfer-guide.md)
+1. Read [Getting Started](docs/getting-started.md)
 2. Read [Transfer Tools](docs/transfer-tools.md)
 3. Learn what [PLINK](tools/plink/README.md) is and why it matters
 4. Read [LZH Archives](docs/lzh.md)
-5. Read [Getting Started](docs/getting-started.md)
-6. Explore individual software pages such as [COMPO-System](software/compo-system/README.md)
+5. Explore individual software pages such as [COMPO-System](software/compo-system/README.md)
+
+If you would like a more practical example, see also:
+
+- [Software Transfer Guide](docs/transfer-guide.md)
 
 ---
 
