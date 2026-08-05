@@ -19,6 +19,24 @@ Please use the links to the original distribution sources whenever possible.
 
 ---
 
+
+## Quick Start
+
+| Goal | Go here |
+|------|---------|
+| **Getting started on real hardware** | [docs/getting-started.md](docs/getting-started.md) |
+| **Transfer tools (PLINK, etc.)** | [docs/transfer-tools.md](docs/transfer-tools.md) · [tools/plink](tools/plink/README.md) |
+| **LZH archives** | [docs/lzh.md](docs/lzh.md) |
+| **COMPO-System** | [software/compo-system/README.md](software/compo-system/README.md) |
+
+**Related projects by the same maintainer**
+
+- [PLAY3 Archive](https://github.com/gikonekos/PLAY3-Archive) — 3-voice buzzer music driver
+- [Building Rescue Archive](https://github.com/gikonekos/Building-Rescue-Archive) — PC-E500 action game
+- [SC62015 Opcode Reference](https://github.com/gikonekos/sc62015-opcode-reference) — CPU reference for this platform
+- Profile: [github.com/gikonekos](https://github.com/gikonekos)
+
+---
 ## Scope
 
 This repository focuses on:
